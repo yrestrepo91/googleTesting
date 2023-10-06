@@ -1,0 +1,28 @@
+{
+  "name": "googletesting",
+  "version": "1.0.0",
+  "description": "google search testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrestrepo91/googleTesting.git"
+  },
+  "keywords": [
+    "google",
+    "search",
+    "e2e"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yrestrepo91/googleTesting/issues"
+  },
+  "homepage": "https://github.com/yrestrepo91/googleTesting#readme",
+  "dependencies": {
+    "cypress": "^13.3.0"
+  }
+}
